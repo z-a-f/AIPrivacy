@@ -1,0 +1,10 @@
+{
+  "ignoreUnresolved": [],
+  "ignoreUnused": [
+    "expo",
+    "react",
+    "react-dom",
+    "react-native"
+  ],
+  "ignoreUnimported": []
+}

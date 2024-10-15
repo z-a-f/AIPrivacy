@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AIPrivacy/static/css/main.551a7b4a.css",
+    "main.js": "/AIPrivacy/static/js/main.49cbab9a.js",
+    "static/js/453.8ae5c0ae.chunk.js": "/AIPrivacy/static/js/453.8ae5c0ae.chunk.js",
+    "index.html": "/AIPrivacy/index.html",
+    "main.551a7b4a.css.map": "/AIPrivacy/static/css/main.551a7b4a.css.map",
+    "main.49cbab9a.js.map": "/AIPrivacy/static/js/main.49cbab9a.js.map",
+    "453.8ae5c0ae.chunk.js.map": "/AIPrivacy/static/js/453.8ae5c0ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.551a7b4a.css",
+    "static/js/main.49cbab9a.js"
+  ]
+}
